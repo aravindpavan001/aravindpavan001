@@ -99,4 +99,4 @@ Developing an end-to-end financial intelligence platform featuring:
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
