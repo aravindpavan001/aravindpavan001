@@ -62,6 +62,6 @@ Developing an end-to-end financial analytics platform featuring ETL pipelines, K
 
  Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind%20Pavan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aravind-pavan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind%20Pavan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aravindpavan)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aravindpavan303@gmail.com)
