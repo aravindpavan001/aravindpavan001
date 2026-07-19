@@ -25,7 +25,7 @@ Currently building real-world analytics projects while continuously improving my
 - Streamlit
 
 
-Featured Projects
+ Featured Projects
 
 1. Retail Customer Intelligence Dashboard
 
@@ -47,20 +47,21 @@ Designed cohort analysis dashboards to evaluate repeat purchase behaviour and lo
 Developing an end-to-end financial analytics platform featuring ETL pipelines, KPI calculations, peer comparison, valuation analysis and Streamlit dashboards.
 
 
-## 📈 GitHub Stats
+ Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravindpavan001&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindpavan001&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+- Publishing Data Analytics projects on LinkedIn
+- Strengthening SQL, Python and Power BI skills
+
+  2026 Goals
+
+- Build 10 end-to-end analytics projects
+- Contribute to open-source data projects
+- Secure a Data Analyst role
+- Continue sharing projects and insights on LinkedIn
 
 
  Connect With Me
 
-LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind%20Pavan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aravind-pavan)
 
-https://linkedin.com/in/aravind-pavan
-
-Email
-
-aravindpavan303@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aravindpavan303@gmail.com)
