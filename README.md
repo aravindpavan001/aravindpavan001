@@ -1,8 +1,6 @@
  Hi, I'm Aravind Pavan 👋
 
-I'm a Data Analyst passionate about transforming raw data into actionable business insights using SQL, Python, Power BI and Excel.
-Currently building real-world analytics projects while continuously improving my skills in business intelligence and data analytics.
-
+I'm a Data Analyst with hands-on experience building business intelligence dashboards and analytics solutions using SQL, Python, Power BI and Excel. I enjoy solving real-world business problems through data.
 
  About Me
 
