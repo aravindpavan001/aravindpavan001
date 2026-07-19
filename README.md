@@ -1,65 +1,121 @@
- Hi, I'm Aravind Pavan 👋
+# Hi, I'm Aravind Pavan 👋
 
-I'm a Data Analyst with hands-on experience building business intelligence dashboards and analytics solutions using SQL, Python, Power BI and Excel. I enjoy solving real-world business problems through data.
+I'm a Data Analyst passionate about solving business problems through data.
 
- About Me
+I build end-to-end analytics projects using **SQL, Python, Power BI and Excel**, transforming raw data into interactive dashboards and actionable business insights.
 
--  B.Tech in Computer Science, IIIT Agartala
--  Data Analyst
--  Open to Data Analyst opportunities
+---
 
+## 👨‍💻 About Me
 
- Tech Stack
+🎓 **B.Tech in Computer Science**  
+IIIT Agartala
 
-- SQL
-- Python
+📊 **Data Analyst** specialising in Business Intelligence, Data Visualisation and Analytics
+
+🌱 **Currently Building**  
+N100 Financial Intelligence Platform
+
+📚 **Currently Learning**
+
+- Advanced SQL
+- Python for Data Analytics
 - Power BI
-- Excel
-- DAX
-- Pandas
-- NumPy
-- Git
-- GitHub
 - Streamlit
 
+---
 
- Featured Projects
+## 🛠 Tech Stack
 
-1. Retail Customer Intelligence Dashboard
+| Category | Technologies |
+|-----------|--------------|
+| **Programming** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy |
+| **Business Intelligence** | Power BI, Excel, DAX |
+| **Tools** | Git, GitHub, VS Code, Streamlit |
 
-Analysed 500K+ retail transactions to uncover customer behaviour, revenue trends, segmentation, and churn risks using SQL, Power BI and DAX.
+---
 
+## 🚀 Featured Projects
 
-2. Customer Churn Analysis
+### 📈 Retail Customer Intelligence Dashboard
 
-Built an interactive dashboard to identify churn drivers and recommend customer retention strategies.
+**Tech Stack:** SQL • Power BI • DAX
 
+- Analysed **500K+ retail transactions**
+- Identified customer segmentation and revenue concentration
+- Detected churn-risk customers
+- Built an executive dashboard for business insights
 
-3. Customer Retention Cohort Analysis
+---
 
-Designed cohort analysis dashboards to evaluate repeat purchase behaviour and long-term customer retention.
+### 📊 Customer Churn Analysis
 
+**Tech Stack:** Power BI • SQL • Excel
 
-4. N100 Financial Intelligence *(In Progress)*
+- Analysed customer churn patterns
+- Identified major churn drivers
+- Recommended retention strategies through interactive dashboards
 
-Developing an end-to-end financial analytics platform featuring ETL pipelines, KPI calculations, peer comparison, valuation analysis and Streamlit dashboards.
+---
 
+### 📉 Customer Retention Cohort Analysis
 
- Currently Working On
+**Tech Stack:** SQL • Power BI
 
+- Performed cohort analysis
+- Measured repeat purchase behaviour
+- Visualised long-term customer retention trends
+
+---
+
+### 💹 N100 Financial Intelligence *(In Progress)*
+
+**Tech Stack:** Python • SQL • Streamlit
+
+Developing an end-to-end financial intelligence platform featuring:
+
+- ETL pipelines
+- Financial KPI calculations
+- Peer comparison engine
+- Company valuation analysis
+- Interactive Streamlit dashboards
+
+---
+
+## 🚀 Current Focus
+
+- Building real-world analytics projects
 - Publishing Data Analytics projects on LinkedIn
-- Strengthening SQL, Python and Power BI skills
+- Strengthening SQL, Python and Power BI
+- Learning advanced financial analytics
 
-  2026 Goals
+---
 
-- Build 10 end-to-end analytics projects
-- Contribute to open-source data projects
-- Secure a Data Analyst role
-- Continue sharing projects and insights on LinkedIn
+## 📈 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aravindpavan001&show_icons=true&theme=github_dark&hide_border=true"/>
 
- Connect With Me
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindpavan001&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind%20Pavan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aravindpavan)
+---
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aravindpavan303@gmail.com)
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/aravindpavan">
+<img src="https://img.shields.io/badge/LinkedIn-Aravind%20Pavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aravindpavan303@gmail.com">
+<img src="https://img.shields.io/badge/Email-aravindpavan303%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
