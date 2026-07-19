@@ -11,17 +11,7 @@ I build end-to-end analytics projects using **SQL, Python, Power BI and Excel**,
 🎓 **B.Tech in Computer Science**  
 IIIT Agartala
 
-📊 **Data Analyst** specialising in Business Intelligence, Data Visualisation and Analytics
-
-🌱 **Currently Building**  
-N100 Financial Intelligence Platform
-
-📚 **Currently Learning**
-
-- Advanced SQL
-- Python for Data Analytics
-- Power BI
-- Streamlit
+ Data Analyst specialising in Business Intelligence, Data Visualisation and Analytics
 
 ---
 
@@ -38,7 +28,7 @@ N100 Financial Intelligence Platform
 
 ## 🚀 Featured Projects
 
-### 📈 Retail Customer Intelligence Dashboard
+###  Retail Customer Intelligence Dashboard
 
 **Tech Stack:** SQL • Power BI • DAX
 
@@ -49,7 +39,7 @@ N100 Financial Intelligence Platform
 
 ---
 
-### 📊 Customer Churn Analysis
+###  Customer Churn Analysis
 
 **Tech Stack:** Power BI • SQL • Excel
 
@@ -59,7 +49,7 @@ N100 Financial Intelligence Platform
 
 ---
 
-### 📉 Customer Retention Cohort Analysis
+###  Customer Retention Cohort Analysis
 
 **Tech Stack:** SQL • Power BI
 
@@ -69,7 +59,7 @@ N100 Financial Intelligence Platform
 
 ---
 
-### 💹 N100 Financial Intelligence *(In Progress)*
+###  N100 Financial Intelligence *(In Progress)*
 
 **Tech Stack:** Python • SQL • Streamlit
 
@@ -92,15 +82,6 @@ Developing an end-to-end financial intelligence platform featuring:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aravindpavan001&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindpavan001&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
