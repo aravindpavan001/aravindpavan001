@@ -47,6 +47,14 @@ Designed cohort analysis dashboards to evaluate repeat purchase behaviour and lo
 Developing an end-to-end financial analytics platform featuring ETL pipelines, KPI calculations, peer comparison, valuation analysis and Streamlit dashboards.
 
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aravindpavan001&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindpavan001&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+
  Connect With Me
 
 LinkedIn
